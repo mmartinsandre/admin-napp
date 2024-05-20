@@ -1,4 +1,4 @@
-# Meu Projeto Next.js
+# Admin - napp
 
 Este projeto é uma aplicação Next.js que inclui autenticação e um sistema de gerenciamento de produtos.
 
